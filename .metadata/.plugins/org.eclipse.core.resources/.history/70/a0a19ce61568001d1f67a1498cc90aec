@@ -1,0 +1,18 @@
+package mypackage;
+
+public class Demo02 {
+
+	public static void main(String[] args) {
+		int result =factorial(5);
+		System.out.println(result);
+	}
+	public static int factorial(int k) {
+		if(k>) {
+			return k*factorial(k-1);
+			
+		}else {
+			return 0;
+		}
+	}
+
+}

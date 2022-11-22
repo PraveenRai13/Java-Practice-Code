@@ -1,0 +1,3 @@
+INDEX VERSION 1.4+D:\Practice\Data Structure & Alogorithm\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3970819791.index
+2127720487.index

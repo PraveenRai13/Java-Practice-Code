@@ -1,0 +1,11 @@
+// All active thread names belongs to system group and its child groups
+package mypackage;
+
+public class Demo15 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
